@@ -1,0 +1,22 @@
+
+
+body{
+   background-color: rgb(250,250,250);
+}
+
+.image{
+    background-color:rgb(238,225,255);
+    width: 100%;
+ }
+
+ .content{
+   display: block;
+     margin-top:auto;
+     margin-bottom: auto;
+ }
+ .form1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
